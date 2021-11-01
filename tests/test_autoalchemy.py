@@ -20,10 +20,3 @@ def test_content(response):
     # from bs4 import BeautifulSoup
     # assert 'GitHub' in BeautifulSoup(response.content).title.string
     del response
-
-
-def test_imports():
-    try:
-        from autoalchemy import AutoInitConfig, auto_init
-    except Exception:
-        pytest.fail("Could not import autoalchemy")
