@@ -3,5 +3,5 @@
 To use AutoAlchemy in a project
 
 ```
-    import autoalchemy
+    import auto-alchemy
 ```

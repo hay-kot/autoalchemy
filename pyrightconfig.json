@@ -10,13 +10,11 @@
     ".vscode",
     "docs",
     "**/__pycache__",
-    "hay-kot_autoalchemy.egg-info"
+    "hay-kot_auto-alchemy.egg-info"
   ],
-
   "ignore": [
     "src/oldstuff"
   ],
-
   "reportMissingImports": true,
   "reportMissingTypeStubs": false,
   "pythonVersion": "3.8"

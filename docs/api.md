@@ -1,1 +1,1 @@
-::: autoalchemy
+::: auto-alchemy

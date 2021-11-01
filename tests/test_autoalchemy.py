@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""Tests for `autoalchemy` package."""
+"""Tests for `auto-alchemy` package."""
 # pylint: disable=redefined-outer-name
 
 import pytest

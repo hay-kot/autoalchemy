@@ -9,7 +9,7 @@ You can contribute in many ways:
 
 ### Report Bugs
 
-Report bugs at https://github.com/hay-kot/autoalchemy/issues.
+Report bugs at https://github.com/hay-kot/auto-alchemy/issues.
 
 If you are reporting a bug, please include:
 
@@ -35,7 +35,7 @@ articles, and such.
 
 ### Submit Feedback
 
-The best way to send feedback is to file an issue at https://github.com/hay-kot/autoalchemy/issues.
+The best way to send feedback is to file an issue at https://github.com/hay-kot/auto-alchemy/issues.
 
 If you are proposing a feature:
 
@@ -46,13 +46,13 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `autoalchemy` for local development.
+Ready to contribute? Here's how to set up `auto-alchemy` for local development.
 
-1. Fork the `autoalchemy` repo on GitHub.
+1. Fork the `auto-alchemy` repo on GitHub.
 2. Clone your fork locally
 
 ```
-    $ git clone git@github.com:your_name_here/autoalchemy.git
+    $ git clone git@github.com:your_name_here/auto-alchemy.git
 ```
 
 3. Ensure [poetry](https://python-poetry.org/docs/) is installed.
@@ -96,11 +96,11 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.md.
 3. The pull request should work for Python 3.6, 3.7, 3.8, 3.9 and for PyPy. Check
-   https://github.com/hay-kot/autoalchemy/actions
+   https://github.com/hay-kot/auto-alchemy/actions
    and make sure that the tests pass for all supported Python versions.
 
 ## Tips```
-    $ pytest tests.test_autoalchemy
+    $ pytest tests.test_auto-alchemy
 ```To run a subset of tests.
 
 

@@ -1,1 +1,1 @@
-"""Unit test package for autoalchemy."""
+"""Unit test package for auto-alchemy."""

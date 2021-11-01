@@ -1,8 +1,8 @@
 [tool]
 [tool.poetry]
-name = "autoalchemy"
+name = "auto-alchemy"
 version = "0.1.0"
-homepage = "https://github.com/hay-kot/autoalchemy"
+homepage = "https://github.com/hay-kot/auto-alchemy"
 description = "Auto Alchemy is a small library container a decorator to automate initialization of variables with SQLAlchemy."
 authors = ["Hayden Kotelman <hay-kot@pm.me>"]
 readme = "README.md"
@@ -19,7 +19,7 @@ classifiers=[
     'Programming Language :: Python :: 3.9',
 ]
 packages = [
-    { include = "autoalchemy" },
+    { include = "auto-alchemy" },
     { include = "tests", format = "sdist" },
 ]
 
@@ -69,7 +69,7 @@ doc = [
     ]
 
 [tool.poetry.scripts]
-autoalchemy = 'autoalchemy.cli:main'
+auto-alchemy = 'auto-alchemy.cli:main'
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
